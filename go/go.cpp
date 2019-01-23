@@ -18,7 +18,6 @@ int main()
   while (fin >> s)
     ec.push_back(s);
 
-  unordered_map<string, vector<string>> ec2go;
   vector<string> vecOfTypes;
   vector<string> vecOfGos;
 
@@ -26,8 +25,8 @@ int main()
   // search document for term
   for (string i : ec) {
     char c;
-    vecOfGos.clear();
     string goTerm = "";
+    string goNum = "";
     unsigned int count = 0;
     bool matchFound = false;
     while (goFile >> c) {
@@ -62,24 +61,34 @@ int main()
               goTerm+=' ';
               goFile >> typeText;
             }
-            // add type to vector of types
-            vecOfTypes.push_back(goTerm);
-          }
 
-          // Add the go number to the output file
-          //vecOfGos.push_back(goNum);
+            // read the go number
+            string numText = "";
+            for (int z=0; z<3; z++) 
+              goFile >> c;
+            
+            goFile >> c;
+            while (c != 'E') {
+              goNum+=c;
+              goFile >> c;
+            } 
+            goNum+=' ';
+          }
         }
       }
     }    
-    // Add vector list of go terms to corresponding ec
-    ec2go[i] = vecOfGos;
+    // add place holder if no match found
+    if (matchFound == false) {
+      vecOfTypes.push_back("No match found");
+      vecOfGos.push_back("No match found");
+    } else {
+      vecOfTypes.push_back(goTerm);
+      vecOfGos.push_back(goNum);
+    }
 
     // reset go file to beginning
     goFile.clear();
     goFile.seekg(0, ios::beg);
-
-    // add place holder if no match found
-    if (matchFound == false) vecOfTypes.push_back("No match found");
   } 
 
   // Print sorted types to output file
@@ -87,14 +96,8 @@ int main()
     foutType << i << "\n";
 
   // Print sorted gos to output file
-  vector<string> goTerms;
-  for (auto i : ec2go) {
-    goTerms.clear();
-    goTerms = i.second;
-    for (auto j : goTerms)
-      fout << j << " ";
-    fout << "\n";
-  }
+  for (auto i : vecOfGos)
+    fout << i << "\n";
 
   return 0;
 }
