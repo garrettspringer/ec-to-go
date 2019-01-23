@@ -8,8 +8,10 @@ using namespace std;
 int main()
 {
   ifstream fin("sorted-ec.txt");
+  // change back to "go-file.txt" FIXME
   ifstream goFile("go-file.txt"); 
   ofstream fout("sorted-go.txt");
+  ofstream foutType("sorted-type.txt");
 
   // array of EC
   string s;
@@ -18,29 +20,54 @@ int main()
     ec.push_back(s);
 
   unordered_map<string, vector<string>> ec2go;
+  vector<string> vecOfTypes;
+  vector<string> vecOfGos;
 
   // for every ec, match it to possible go terms
   // search document for term
   for (string i : ec) {
     char c;
-    string goTerm;
-    vector<string> vecOfGos;
     vecOfGos.clear();
+    string goTerm = "";
+    unsigned int count = 0;
     while (goFile >> c) {
-      goTerm = "";
+      count++;
       if (c == i[0]) {
-        goTerm+=c;
         bool match = true;
         for (unsigned int j=1; j<i.size(); j++) {
           goFile >> c;
-          if (c != s[j]) {
+          if (c != i[j]) {
             match = false;
             break;
           }
-          goTerm+=c;
         }
-        if (match == true) 
-          vecOfGos.push_back(goTerm);
+        
+        if (match == true) { 
+          // check that the ec is the same (1.1.1.1 != 1.1.1.10)
+          goFile >> c;
+          bool verified = false;
+          if (c == '>') verified = true;
+
+          if (verified) {
+            // keep reading until you encounter "GO:"
+            for (int z=0; z<3; z++) 
+              goFile >> c;
+
+            // read until ';'
+            string typeText = "";
+            goFile >> typeText;
+            while (typeText != ";") {
+              goTerm+=typeText;
+              goTerm+=' ';
+              goFile >> typeText;
+            }
+            // add type to vector of types
+            vecOfTypes.push_back(goTerm);
+          }
+
+          // Add the go number to the output file
+          //vecOfGos.push_back(goNum);
+        }
       }
     }    
     // Add vector list of go terms to corresponding ec
@@ -50,6 +77,10 @@ int main()
     goFile.clear();
     goFile.seekg(0, ios::beg);
   } 
+
+  // Print sorted types to output file
+  for (auto i : vecOfTypes)
+    foutType << i << "\n";
 
   // Print sorted gos to output file
   vector<string> goTerms;
