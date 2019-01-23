@@ -8,7 +8,6 @@ using namespace std;
 int main()
 {
   ifstream fin("sorted-ec.txt");
-  // change back to "go-file.txt" FIXME
   ifstream goFile("go-file.txt"); 
   ofstream fout("sorted-go.txt");
   ofstream foutType("sorted-type.txt");
@@ -30,6 +29,7 @@ int main()
     vecOfGos.clear();
     string goTerm = "";
     unsigned int count = 0;
+    bool matchFound = false;
     while (goFile >> c) {
       count++;
       if (c == i[0]) {
@@ -49,6 +49,7 @@ int main()
           if (c == '>') verified = true;
 
           if (verified) {
+            matchFound = true;
             // keep reading until you encounter "GO:"
             for (int z=0; z<3; z++) 
               goFile >> c;
@@ -76,6 +77,9 @@ int main()
     // reset go file to beginning
     goFile.clear();
     goFile.seekg(0, ios::beg);
+
+    // add place holder if no match found
+    if (matchFound == false) vecOfTypes.push_back("No match found");
   } 
 
   // Print sorted types to output file
