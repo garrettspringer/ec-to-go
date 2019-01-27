@@ -57,6 +57,7 @@ int main()
             // read until ';'
             string typeText = "";
             goFile >> typeText;
+            if (firstMatch == false) goTerm+="; ";
             while (typeText != ";") {
               goTerm+=typeText;
               goTerm+=' ';
@@ -74,7 +75,6 @@ int main()
               goNum+=c;
               goFile >> c;
             } 
-            //goNum+=' ';
 
             firstMatch = false;
           }
