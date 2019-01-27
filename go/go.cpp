@@ -24,6 +24,7 @@ int main()
   // for every ec, match it to possible go terms
   // search document for term
   for (string i : ec) {
+    bool firstMatch = true;
     char c;
     string goTerm = "";
     string goNum = "";
@@ -68,11 +69,14 @@ int main()
               goFile >> c;
             
             goFile >> c;
+            if (firstMatch == false) goNum+=" ; ";
             while (c != 'E') {
               goNum+=c;
               goFile >> c;
             } 
-            goNum+=' ';
+            //goNum+=' ';
+
+            firstMatch = false;
           }
         }
       }
