@@ -1,0 +1,21 @@
+IMP dehydrogenase activity 
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity 
+purine-nucleoside phosphorylase activity 
+adenine phosphoribosyltransferase activity 
+hypoxanthine phosphoribosyltransferase activity ; guanine phosphoribosyltransferase activity 
+adenylate kinase activity 
+guanylate kinase activity 
+ribose phosphate diphosphokinase activity 
+GTP diphosphokinase activity 
+sulfate adenylyltransferase (ATP) activity 
+guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity 
+IMP cyclohydrolase activity 
+adenosine deaminase activity 
+No match found
+phosphopentomutase activity 
+phosphoribosylaminoimidazolesuccinocarboxamide synthase activity 
+phosphoribosylformylglycinamidine cyclo-ligase activity 
+phosphoribosylamine-glycine ligase activity 
+adenylosuccinate synthase activity 
+GMP synthase (glutamine-hydrolyzing) activity 
+phosphoribosylformylglycinamidine synthase activity 
