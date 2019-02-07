@@ -1,0 +1,1580 @@
+alcohol dehydrogenase (NAD) activity 
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity ; 3-oxo-glutaryl-[acp] methyl ester reductase activity ; 3-oxo-pimeloyl-[acp] methyl ester reductase activity 
+L-threonine 3-dehydrogenase activity 
+carnitine 3-dehydrogenase activity 
+D-arabinitol 4-dehydrogenase activity 
+2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase activity 
+3-dehydro-L-gulonate 2-dehydrogenase activity 
+dTDP-4-dehydrorhamnose reductase activity 
+UDP-N-acetylglucosamine 6-dehydrogenase activity 
+L-iditol 2-dehydrogenase activity 
+sorbitol-6-phosphate 2-dehydrogenase activity 
+3-beta-hydroxy-delta5-steroid dehydrogenase activity 
+3-hydroxybutyryl-CoA dehydrogenase activity 
+2-dehydropantoate 2-reductase activity 
+mannitol-1-phosphate 5-dehydrogenase activity 
+inositol 2-dehydrogenase activity 
+long-chain-alcohol dehydrogenase activity 
+5-amino-6-(5-phosphoribosylamino)uracil reductase activity 
+alcohol dehydrogenase (NADP+) activity 
+1,3-propanediol dehydrogenase activity 
+IMP dehydrogenase activity 
+gluconate 2-dehydrogenase activity 
+UDP-glucose 6-dehydrogenase activity 
+histidinol dehydrogenase activity 
+hydroxyphenylpyruvate reductase activity ; R(+)-3,4-dihydroxyphenyllactate:NADP+ oxidoreductase activity 
+shikimate 3-dehydrogenase (NADP+) activity 
+galactitol-1-phosphate 5-dehydrogenase activity 
+4-hydroxythreonine-4-phosphate dehydrogenase activity 
+L-idonate 5-dehydrogenase activity 
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity 
+L-lactate dehydrogenase activity 
+GDP-L-fucose synthase activity 
+2,5-didehydrogluconate reductase activity 
+D-lactate dehydrogenase activity 
+shikimate 3-dehydrogenase (NADP+) activity ; quinate 3-dehydrogenase (NAD+) activity ; quinate 3-dehydrogenase (NADP+) activity ; shikimate 3-dehydrogenase (NAD+) activity 
+methylglyoxal reductase (NADPH-dependent) activity 
+S-(hydroxymethyl)glutathione dehydrogenase activity 
+4-phosphoerythronate dehydrogenase activity 
+3-hydroxypropionate dehydrogenase (NADP+) activity 
+homoserine dehydrogenase activity 
+3-hydroxybutyrate dehydrogenase activity 
+diacetyl reductase ((S)-acetoin forming) activity 
+UDP-glucuronic acid dehydrogenase activity 
+No match found
+3-hydroxyisobutyrate dehydrogenase activity 
+No match found
+No match found
+UDP-N-acetyl-D-mannosamine dehydrogenase activity 
+No match found
+No match found
+No match found
+3-hydroxyacyl-CoA dehydrogenase activity 
+No match found
+No match found
+acetoacetyl-CoA reductase activity 
+No match found
+L-malate dehydrogenase activity 
+scyllo-inositol dehydrogenase (NADP+) activity 
+3-sulfolactaldehyde reductase activity 
+malate dehydrogenase (decarboxylating) (NAD+) activity ; oxaloacetate decarboxylase activity 
+No match found
+No match found
+No match found
+No match found
+(R,R)-butanediol dehydrogenase activity 
+malate dehydrogenase (decarboxylating) (NADP+) activity ; oxaloacetate decarboxylase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+isocitrate dehydrogenase (NADP+) activity 
+phosphogluconate dehydrogenase (decarboxylating) activity 
+glucose 1-dehydrogenase [NAD(P)] activity 
+glucose-6-phosphate dehydrogenase activity 
+androstan-3-alpha,17-beta-diol dehydrogenase activity 
+ribitol 2-dehydrogenase activity 
+fructuronate reductase activity 
+tagaturonate reductase activity 
+glycerol dehydrogenase [NAD+] activity 
+2-hydroxy-3-oxopropionate reductase activity 
+4-hydroxybutyrate dehydrogenase activity 
+pyridoxine:NADP 4-dehydrogenase activity 
+gluconate 5-dehydrogenase activity 
+lactaldehyde reductase activity 
+glyoxylate reductase (NADP) activity 
+isopropanol dehydrogenase (NADP+) activity 
+hydroxypyruvate reductase activity 
+D-malate dehydrogenase (decarboxylating) activity 
+3-isopropylmalate dehydrogenase activity 
+ketol-acid reductoisomerase activity 
+tartrate dehydrogenase activity 
+glycerol-3-phosphate dehydrogenase [NAD+] activity ; glycerol-3-phosphate dehydrogenase [NADP+] activity ; glycerol-3-phosphate dehydrogenase [NAD(P)+] activity 
+phosphoglycerate dehydrogenase activity 
+(S)-2-hydroxy-acid oxidase activity ; very-long-chain-(S)-2-hydroxy-acid oxidase activity ; long-chain-(S)-2-hydroxy-long-chain-acid oxidase activity ; medium-chain-(S)-2-hydroxy-acid oxidase activity 
+glycerol-3-phosphate oxidase activity 
+cholesterol oxidase activity 
+No match found
+quinoprotein glucose dehydrogenase activity 
+glycerol-3-phosphate dehydrogenase activity ; sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity ; sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity 
+malate dehydrogenase (quinone) activity ; malate dehydrogenase (menaquinone) activity 
+quinate dehydrogenase (quinone) activity 
+glucose-6-phosphate dehydrogenase (coenzyme F420) activity 
+No match found
+No match found
+choline dehydrogenase activity 
+gluconate 2-dehydrogenase (acceptor) activity 
+No match found
+No match found
+ubiquinol-cytochrome-c reductase activity 
+No match found
+No match found
+NADH peroxidase activity 
+chloride peroxidase activity 
+peroxiredoxin activity 
+No match found
+No match found
+cytochrome-c peroxidase activity 
+catalase activity 
+glutathione peroxidase activity 
+hydrogen dehydrogenase (NADP+) activity 
+hydrogen:quinone oxidoreductase activity 
+hydrogenase (acceptor) activity 
+catechol 1,2-dioxygenase activity 
+tryptophan 2,3-dioxygenase activity 
+3,4-dihydroxyphenylacetate 2,3-dioxygenase activity 
+3-carboxyethylcatechol 2,3-dioxygenase activity 
+catechol 2,3-dioxygenase activity 
+quercetin 2,3-dioxygenase activity 
+3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase activity 
+4-hydroxyphenylpyruvate dioxygenase activity 
+stizolobate synthase activity 
+protocatechuate 3,4-dioxygenase activity 
+homogentisate 1,2-dioxygenase activity 
+acireductone dioxygenase (Ni2+-requiring) activity 
+acireductone dioxygenase [iron(II)-requiring] activity 
+No match found
+lactate 2-monooxygenase activity 
+taurine dioxygenase activity 
+1-ethyladenine demethylase activity 
+No match found
+anthranilate 1,2-dioxygenase (deaminating, decarboxylating) activity 
+benzoate 1,2-dioxygenase activity 
+nitric oxide dioxygenase activity 
+FAD-dependent urate hydroxylase activity 
+No match found
+cholest-4-en-3-one 26-monooxygenase activity 
+3-ketosteroid 9-alpha-monooxygenase activity 
+phenylacetyl-CoA 1,2-epoxidase activity 
+4-hydroxybenzoate 3-monooxygenase activity 
+No match found
+3-hydroxybenzoate 6-monooxygenase activity 
+L-lysine 6-monooxygenase (NADPH) activity 
+phenol 2-monooxygenase activity 
+sterol 14-demethylase activity 
+vanillate monooxygenase activity 
+kynurenine 3-monooxygenase activity 
+aromatase activity 
+3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase activity 
+No match found
+No match found
+alkanesulfonate monooxygenase activity 
+4-hydroxyphenylacetate 3-monooxygenase activity 
+No match found
+alkane 1-monooxygenase activity ; arachidonic acid omega-hydroxylase activity 
+stearoyl-CoA 9-desaturase activity 
+linoleoyl-CoA desaturase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+superoxide dismutase activity 
+mercury (II) reductase activity 
+aquacobalamin reductase activity 
+ferric-chelate reductase (NADPH) activity 
+ferroxidase activity 
+No match found
+4-hydroxy-tetrahydrodipicolinate reductase 
+No match found
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor 
+No match found
+No match found
+No match found
+No match found
+No match found
+rubredoxin-NAD+ reductase activity 
+ferredoxin-NADP+ reductase activity 
+ferredoxin-NAD+ reductase activity 
+nitrogenase activity ; carbonyl sulfide nitrogenase activity 
+No match found
+acetaldehyde dehydrogenase (acetylating) activity 
+aspartate-semialdehyde dehydrogenase activity 
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity 
+succinate-semialdehyde dehydrogenase [NAD(P)+] activity 
+aminobutyraldehyde dehydrogenase activity ; 1-pyrroline dehydrogenase activity 
+glutarate-semialdehyde dehydrogenase activity 
+glycolaldehyde dehydrogenase activity 
+lactaldehyde dehydrogenase activity 
+2,5-dioxovalerate dehydrogenase (NADP+) activity 
+methylmalonate-semialdehyde dehydrogenase (acylating) activity 
+aldehyde dehydrogenase (NAD) activity 
+aryl-aldehyde dehydrogenase (NADP+) activity 
+N-acetyl-gamma-glutamyl-phosphate reductase activity 
+phenylacetaldehyde dehydrogenase activity 
+glutamate-5-semialdehyde dehydrogenase activity 
+formaldehyde dehydrogenase activity 
+long-chain-aldehyde dehydrogenase activity 
+aldehyde dehydrogenase [NAD(P)+] activity 
+glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating) activity 
+vanillin dehydrogenase activity 
+glutamyl-tRNA reductase activity 
+succinylglutamate-semialdehyde dehydrogenase activity 
+erythrose-4-phosphate dehydrogenase activity 
+No match found
+betaine-aldehyde dehydrogenase activity 
+No match found
+No match found
+glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity 
+No match found
+No match found
+No match found
+pyruvate oxidase activity 
+pyruvate dehydrogenase (acetyl-transferring) activity 
+oxoglutarate dehydrogenase (succinyl-transferring) activity 
+3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity 
+pyruvate dehydrogenase (quinone) activity 
+pyruvate synthase activity 
+2-oxoglutarate synthase activity 
+No match found
+arsenate reductase (glutaredoxin) activity 
+No match found
+No match found
+D-proline reductase (dithiol) activity 
+glycine reductase activity 
+sarcosine reductase activity 
+betaine reductase activity 
+No match found
+dihydrouracil dehydrogenase (NAD+) activity 
+No match found
+No match found
+No match found
+prephenate dehydrogenase (NAD+) activity 
+orotate reductase (NADH) activity 
+1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase activity 
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity 
+2,4-dienoyl-CoA reductase (NADPH) activity 
+precorrin-2 dehydrogenase activity 
+acryloyl-CoA reductase (NADP+) activity 
+enoyl-[acyl-carrier-protein] reductase (NADH) activity 
+tRNA-dihydrouridine20 synthase activity 
+No match found
+No match found
+pyrroloquinoline-quinone synthase activity 
+coproporphyrinogen oxidase activity 
+oxygen-dependent protoporphyrinogen oxidase activity 
+succinate dehydrogenase (ubiquinone) activity 
+dihydroorotate dehydrogenase activity 
+No match found
+No match found
+butyryl-CoA dehydrogenase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+dihydroorotate dehydrogenase (fumarate) activity 
+No match found
+No match found
+3-oxosteroid 1-dehydrogenase activity 
+alanine dehydrogenase activity 
+L-erythro-3,5-diaminohexanoate dehydrogenase activity 
+2,4-diaminopentanoate dehydrogenase activity 
+glutamate synthase (NADPH) activity 
+diaminopimelate dehydrogenase activity 
+glutamate dehydrogenase (NAD+) activity 
+aspartate dehydrogenase activity 
+glutamate dehydrogenase [NAD(P)+] activity 
+glutamate dehydrogenase (NADP+) activity 
+leucine dehydrogenase activity 
+L-aspartate oxidase activity ; L-aspartate:fumarate oxidoreductase activity 
+primary amine oxidase activity ; tryptamine:oxygen oxidoreductase (deaminating) activity ; aminoacetone:oxygen oxidoreductase(deaminating) activity ; aliphatic-amine oxidase activity ; phenethylamine:oxygen oxidoreductase (deaminating) activity 
+D-amino-acid oxidase activity 
+pyridoxamine-phosphate oxidase activity 
+glycine dehydrogenase (decarboxylating) activity 
+glutamate synthase (ferredoxin) activity 
+pyrroline-5-carboxylate reductase activity 
+methylenetetrahydrofolate reductase (NAD(P)H) activity 
+delta1-piperideine-2-carboxylate reductase activity 
+N5-(carboxyethyl)ornithine synthase activity 
+dihydrofolate reductase activity 
+6,7-dihydropteridine reductase activity 
+flavin reductase (NADH) activity 
+FMN reductase (NADPH) activity 
+riboflavin reductase (NADPH) activity ; riboflavin reductase (NADH) activity 
+No match found
+methylenetetrahydrofolate dehydrogenase (NADP+) activity 
+electron-transferring-flavoprotein dehydrogenase activity 
+No match found
+NAD(P)+ transhydrogenase (B-specific) activity 
+NAD(P)+ transhydrogenase (AB-specific) activity 
+NADPH-hemoprotein reductase activity 
+No match found
+NAD(P)H dehydrogenase (quinone) activity 
+NADPH:quinone reductase activity 
+No match found
+NADPH dehydrogenase activity ; pentaerythritol trinitrate reductase activity ; trichloro-p-hydroquinone reductive dehalogenase activity 
+NADH dehydrogenase activity 
+preQ1 synthase activity 
+No match found
+nitrite reductase [NAD(P)H] activity 
+GMP reductase activity ; GMP reductase complex 
+nitrite reductase (NO-forming) activity 
+nitrite reductase (cytochrome, ammonia-forming) activity 
+trimethylamine-N-oxide reductase (cytochrome c) activity 
+nitrous-oxide reductase activity 
+nitric oxide reductase activity 
+hydroxylamine reductase activity 
+nitrate reductase activity 
+mycothione reductase activity 
+sulfite reductase (NADPH) activity 
+dihydrolipoyl dehydrogenase activity 
+glutathione-disulfide reductase activity 
+protein-disulfide reductase activity 
+thioredoxin-disulfide reductase activity 
+peptide-methionine (S)-S-oxide reductase activity 
+peptide-methionine (R)-S-oxide reductase activity 
+L-methionine:thioredoxin-disulfide S-oxidoreductase activity 
+L-methionine-(R)-S-oxide reductase activity 
+phosphoadenylyl-sulfate reductase (thioredoxin) activity 
+No match found
+No match found
+No match found
+sulfite reductase (ferredoxin) activity 
+cytochrome-c oxidase activity 
+nitrate reductase (cytochrome) activity 
+[formate-C-acetyltransferase]-activating enzyme activity 
+No match found
+uroporphyrin-III C-methyltransferase activity 
+methionine synthase activity 
+precorrin-2 C20-methyltransferase activity 
+precorrin-3B C17-methyltransferase activity 
+precorrin-6Y C5,15-methyltransferase (decarboxylating) activity 
+precorrin-4 C11-methyltransferase activity 
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity 
+trans-aconitate 2-methyltransferase activity 
+thymidylate synthase (FAD) activity 
+cobalt-factor II C20-methyltransferase activity 
+No match found
+No match found
+No match found
+16S rRNA (guanine(966)-N(2))-methyltransferase activity 
+16S rRNA (guanine(1207)-N(2))-methyltransferase activity 
+23S rRNA (guanine(2445)-N(2))-methyltransferase activity 
+23S rRNA (guanine(1835)-N(2))-methyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+23S rRNA (adenine(1618)-N(6))-methyltransferase activity 
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity 
+23S rRNA (adenine(2085)-N(6))-dimethyltransferase activity 
+No match found
+No match found
+23S rRNA (guanine(745)-N(1))-methyltransferase activity 
+No match found
+No match found
+No match found
+rRNA (adenine-C2-)-methyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+2-octaprenyl-6-methoxy-1,4-benzoquinone methylase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+tRNA (guanine(37)-N(1))-methyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+tRNA (guanine-N7-)-methyltransferase activity 
+tRNA (guanosine-2'-O-)-methyltransferase activity 
+S-adenosylmethionine-dependent tRNA (m5U54) methyltransferase activity 
+DNA (cytosine-5-)-methyltransferase activity 
+dimethylhistidine N-methyltransferase activity 
+thymidylate synthase activity 
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase activity 
+methylated-DNA-[protein]-cysteine S-methyltransferase activity 
+3-demethylubiquinone-9 3-O-methyltransferase activity 
+thiopurine S-methyltransferase activity 
+site-specific DNA-methyltransferase (adenine-specific) activity 
+methylenetetrahydrofolate-tRNA-(uracil-5-)-methyltransferase (FADH2-oxidizing) activity 
+protein-L-isoaspartate (D-aspartate) O-methyltransferase activity 
+cyclopropane-fatty-acyl-phospholipid synthase activity 
+protein-glutamate O-methyltransferase activity 
+No match found
+glycine hydroxymethyltransferase activity 
+aminomethyltransferase activity 
+3-methyl-2-oxobutanoate hydroxymethyltransferase activity 
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase activity 
+phosphoribosylglycinamide formyltransferase activity 
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity 
+glutamate formimidoyltransferase activity 
+methionyl-tRNA formyltransferase activity 
+methylmalonyl-CoA carboxytransferase activity 
+aspartate carbamoyltransferase activity 
+ornithine carbamoyltransferase activity 
+putrescine carbamoyltransferase activity 
+N-acetylornithine carbamoyltransferase activity 
+molybdopterin molybdotransferase activity 
+transketolase activity 
+sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity 
+2-hydroxy-3-oxoadipate synthase activity 
+acetolactate synthase activity 
+1-deoxy-D-xylulose-5-phosphate synthase activity 
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity 
+acetyl-CoA:L-glutamate N-acetyltransferase activity 
+arginine N-succinyltransferase activity 
+mycocerosate synthase activity 
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity 
+N-hydroxyarylamine O-acetyltransferase activity 
+dihydrolipoyllysine-residue acetyltransferase activity 
+trehalose O-mycolyltransferase activity 
+ribosomal-protein-alanine N-acetyltransferase activity 
+acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase activity 
+glycerol-3-phosphate O-acyltransferase activity 
+glucosamine-1-phosphate N-acetyltransferase activity 
+acetyl-CoA C-acyltransferase activity 
+dihydrolipoyllysine-residue (2-methylpropanoyl)transferase activity 
+3-oxoadipyl-CoA thiolase activity 
+propanoyl-CoA C-acyltransferase activity 
+diaminobutyrate acetyltransferase activity 
+beta-ketoacyl-acyl-carrier-protein synthase II activity 
+beta-ketoacyl-acyl-carrier-protein synthase III activity 
+lipoyl(octanoyl) transferase activity 
+phosphinothricin N-acetyltransferase activity 
+N-acyl homoserine lactone synthase activity 
+No match found
+phosphate butyryltransferase activity 
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase activity ; UDP-3-O-(R-3-hydroxymyristoyl)-glucosamine N-acyltransferase activity 
+No match found
+3-oxo-arachidoyl-CoA synthase activity ; 3-oxo-cerotoyl-CoA synthase activity ; 3-oxo-lignoceronyl-CoA synthase activity 
+diacylglycerol O-acyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+N(6)-L-threonylcarbamoyladenine synthase 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+chloramphenicol O-acetyltransferase activity 
+glycine C-acetyltransferase activity 
+serine O-acetyltransferase activity 
+homoserine O-acetyltransferase activity 
+glutamate N-acetyltransferase activity 
+[acyl-carrier-protein] S-malonyltransferase activity 
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase activity 
+3-oxoacyl-[acyl-carrier-protein] synthase activity 
+homoserine O-succinyltransferase activity 
+8-amino-7-oxononanoate synthase activity 
+histone acetyltransferase activity 
+arylamine N-acetyltransferase activity 
+1-acylglycerol-3-phosphate O-acyltransferase activity 
+phenylalanine N-acetyltransferase activity 
+formate C-acetyltransferase activity 
+diamine N-acetyltransferase activity 
+dihydrolipoyllysine-residue succinyltransferase activity 
+naringenin-chalcone synthase activity 
+long-chain-alcohol O-fatty-acyltransferase activity ; wax ester synthase activity 
+maltose O-acetyltransferase activity 
+phosphate acetyltransferase activity 
+aminoglycoside 3-N-acetyltransferase activity 
+aminoglycoside 6'-N-acetyltransferase activity 
+tetrahydrodipicolinate N-acetyltransferase activity 
+acetyl-CoA C-acetyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+protein-glutamine gamma-glutamyltransferase activity 
+gamma-glutamyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+lysyltransferase activity 
+leucyltransferase activity 
+hydroxymethylglutaryl-CoA synthase activity 
+2-isopropylmalate synthase activity 
+sulfoacetaldehyde acetyltransferase activity 
+No match found
+2-methylcitrate synthase activity 
+malate synthase activity 
+phosphorylase activity 
+levansucrase activity 
+dolichyl-phosphate-mannose-protein mannosyltransferase activity 
+glycogen (starch) synthase activity 
+cellulose synthase (UDP-forming) activity 
+peptidoglycan glycosyltransferase activity 
+alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity 
+1,4-alpha-glucan branching enzyme activity 
+lipopolysaccharide N-acetylmannosaminouronosyltransferase activity 
+lipid-A-disaccharide synthase activity 
+N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase activity 
+cyclomaltodextrin glucanotransferase activity 
+cellobiose phosphorylase activity 
+starch synthase activity ; alpha-1,4-glucan synthase activity 
+1,3-beta-galactosyl-N-acetylhexosamine phosphorylase activity 
+trehalose 6-phosphate phosphorylase activity 
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity ; UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity 
+4-alpha-glucanotransferase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+decaprenyl-N-acetyl-alpha-D-glucosaminyl-pyrophosphate:dTDP-alpha-L-rhamnose rhamnosyltransferase activity 
+No match found
+No match found
+No match found
+4-acetamido-4,6-dideoxy-D-galactose transferase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+amylosucrase activity 
+lipopolysaccharide 3-alpha-galactosyltransferase activity 
+dextransucrase activity 
+lipopolysaccharide N-acetylglucosaminyltransferase activity 
+lipopolysaccharide glucosyltransferase I activity 
+abequosyltransferase activity 
+alpha,alpha-trehalose phosphorylase activity 
+sucrose phosphorylase activity 
+maltose phosphorylase activity 
+dolichyl-phosphate beta-D-mannosyltransferase activity 
+purine-nucleoside phosphorylase activity 
+orotate phosphoribosyltransferase activity 
+amidophosphoribosyltransferase activity 
+guanosine phosphorylase activity 
+ATP phosphoribosyltransferase activity 
+anthranilate phosphoribosyltransferase activity 
+nicotinate-nucleotide diphosphorylase (carboxylating) activity 
+pyrimidine-nucleoside phosphorylase activity 
+nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity 
+xanthine phosphoribosyltransferase activity 
+S-methyl-5-thioadenosine phosphorylase activity 
+queuine tRNA-ribosyltransferase activity 
+uridine phosphorylase activity 
+NAD(P)+-protein-arginine ADP-ribosyltransferase activity 
+thymidine phosphorylase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity 
+adenine phosphoribosyltransferase activity 
+hypoxanthine phosphoribosyltransferase activity ; guanine phosphoribosyltransferase activity 
+uracil phosphoribosyltransferase activity 
+No match found
+No match found
+No match found
+No match found
+N-acetyllactosaminide alpha-2,3-sialyltransferase activity 
+geranyltranstransferase activity 
+No match found
+No match found
+No match found
+No match found
+dihydropteroate synthase activity 
+spermidine synthase activity 
+cob(I)yrinic acid a,c-diamide adenosyltransferase activity 
+glutathione transferase activity 
+3-phosphoshikimate 1-carboxyvinyltransferase activity 
+thiamine-phosphate diphosphorylase activity 
+heptaprenyl diphosphate synthase activity 
+di-trans,poly-cis-decaprenylcistransferase activity 
+cysteine synthase activity 
+cystathionine gamma-synthase activity 
+3-deoxy-7-phosphoheptulonate synthase activity 
+3-deoxy-8-phosphooctulonate synthase activity 
+methionine adenosyltransferase activity 
+hydroxymethylbilane synthase activity 
+O-phosphoserine sulfhydrylase activity 
+Z-farnesyl diphosphate synthase activity 
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity 
+No match found
+No match found
+tRNA dimethylallyltransferase activity 
+7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase activity 
+No match found
+trans-octaprenyltranstransferase activity ; all-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific) activity 
+No match found
+No match found
+No match found
+riboflavin synthase activity 
+No match found
+No match found
+L-aspartate:2-oxoglutarate aminotransferase activity ; L-phenylalanine:2-oxoglutarate aminotransferase activity 
+No match found
+No match found
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity 
+No match found
+ornithine-oxo-acid transaminase activity 
+asparagine-oxo-acid transaminase activity 
+glutamine-fructose-6-phosphate transaminase (isomerizing) activity 
+succinyldiaminopimelate transaminase activity 
+beta-alanine-pyruvate transaminase activity 
+4-aminobutyrate transaminase activity 
+L-alanine:2-oxoglutarate aminotransferase activity 
+D-alanine:2-oxoglutarate aminotransferase activity 
+(S)-3-amino-2-methylpropionate transaminase activity 
+dTDP-4-amino-4,6-dideoxy-D-glucose transaminase activity 
+UDP-2-acetamido-4-amino-2,4,6-trideoxyglucose transaminase activity 
+L-lysine 6-transaminase activity 
+2-aminoethylphosphonate-pyruvate transaminase activity 
+branched-chain-amino-acid transaminase activity ; L-leucine transaminase activity ; L-valine transaminase activity ; L-isoleucine transaminase activity 
+L-tyrosine:2-oxoglutarate aminotransferase activity ; L-phenylalanine:2-oxoglutarate aminotransferase activity 
+O-phospho-L-serine:2-oxoglutarate aminotransferase activity 
+aromatic-amino-acid:2-oxoglutarate aminotransferase activity ; L-phenylalanine:2-oxoglutarate aminotransferase activity 
+dTDP-4-amino-4,6-dideoxygalactose transaminase activity 
+adenosylmethionine-8-amino-7-oxononanoate transaminase activity 
+valine-pyruvate transaminase activity 
+diaminobutyrate-2-oxoglutarate transaminase activity 
+succinylornithine transaminase activity 
+butane-1,4-diamine:2-oxoglutarate aminotransferase activity 
+L,L-diaminopimelate aminotransferase activity 
+4-amino-4-deoxychorismate synthase activity 
+UDP-4-amino-4-deoxy-L-arabinose aminotransferase 
+No match found
+histidinol-phosphate transaminase activity ; L-phenylalanine:2-oxoglutarate aminotransferase activity 
+No match found
+pyridoxine 5'-phosphate synthase activity 
+No match found
+S-methyl-5-thioribose kinase activity 
+diacylglycerol kinase activity 
+6-phosphofructokinase activity 
+deoxyguanosine kinase activity 
+gluconokinase activity 
+phosphoenolpyruvate-glycerone phosphotransferase activity 
+tetraacyldisaccharide 4'-kinase activity 
+tagatose-6-phosphate kinase activity 
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity 
+ribokinase activity 
+phosphatidylinositol-4,5-bisphosphate 3-kinase activity 
+adenosylcobinamide kinase activity 
+ribulokinase activity 
+No match found
+No match found
+No match found
+xylulokinase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+phosphoribulokinase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+glucokinase activity 
+adenosine kinase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+thymidine kinase activity 
+No match found
+No match found
+ribosylnicotinamide kinase activity 
+NAD+ kinase activity 
+dephospho-CoA kinase activity 
+adenylylsulfate kinase activity 
+riboflavin kinase activity 
+glycerone kinase activity 
+glycerol kinase activity 
+glycerate kinase activity 
+pantothenate kinase activity 
+pyridoxal kinase activity 
+homoserine kinase activity 
+fructokinase activity 
+pyruvate kinase activity 
+2-dehydro-3-deoxygluconokinase activity 
+uridine kinase activity 
+hydroxymethylpyrimidine kinase activity 
+rhamnulokinase activity 
+hydroxyethylthiazole kinase activity 
+L-fuculokinase activity 
+L-xylulokinase activity 
+1-phosphofructokinase activity 
+2-dehydro-3-deoxygalactonokinase activity 
+N-acetylglucosamine kinase activity 
+galactokinase activity 
+N-acylmannosamine kinase activity 
+polyphosphate-glucose phosphotransferase activity 
+undecaprenol kinase activity 
+shikimate kinase activity 
+inosine kinase activity 
+deoxycytidine kinase activity 
+deoxyadenosine kinase activity 
+beta-glucoside kinase activity 
+thiamine kinase activity 
+diphosphate-fructose-6-phosphate 1-phosphotransferase activity 
+5-dehydro-2-deoxygluconokinase activity 
+kanamycin kinase activity 
+non-membrane spanning protein tyrosine kinase activity 
+No match found
+No match found
+No match found
+[isocitrate dehydrogenase (NADP+)] kinase activity ; [isocitrate dehydrogenase (NADP+)] phosphatase activity 
+protein histidine kinase activity 
+No match found
+acetate kinase activity 
+glutamate 5-kinase activity 
+propionate kinase activity 
+carbamate kinase activity 
+phosphoglycerate kinase activity 
+aspartate kinase activity 
+butyrate kinase activity 
+acetylglutamate kinase activity 
+phosphoenolpyruvate-protein phosphotransferase activity 
+polyphosphate kinase activity 
+thiamine-phosphate kinase activity 
+UMP kinase activity 
+ribose 1,5-bisphosphate phosphokinase activity 
+No match found
+No match found
+No match found
+No match found
+adenylate kinase activity 
+nucleoside diphosphate kinase activity 
+phosphomethylpyrimidine kinase activity 
+guanylate kinase activity 
+thymidylate kinase activity 
+ribose phosphate diphosphokinase activity 
+thiamine diphosphokinase activity 
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity 
+GTP diphosphokinase activity 
+nicotinamide-nucleotide adenylyltransferase activity 
+UDP-glucose:hexose-1-phosphate uridylyltransferase activity 
+mannose-1-phosphate guanylyltransferase activity 
+nicotinate-nucleotide adenylyltransferase activity 
+polynucleotide adenylyltransferase activity 
+FMN adenylyltransferase activity 
+UDP-N-acetylglucosamine diphosphorylase activity 
+glucose-1-phosphate thymidylyltransferase activity 
+glucose-1-phosphate adenylyltransferase activity 
+pantetheine-phosphate adenylyltransferase activity 
+glucose-1-phosphate cytidylyltransferase activity 
+3-deoxy-manno-octulosonate cytidylyltransferase activity 
+glycerol-3-phosphate cytidylyltransferase activity 
+sulfate adenylyltransferase (ATP) activity 
+D-ribitol-5-phosphate cytidylyltransferase activity 
+phosphatidate cytidylyltransferase activity 
+[glutamate-ammonia-ligase] adenylyltransferase activity 
+N-acylneuraminate cytidylyltransferase activity 
+aminoglycoside 3''-adenylyltransferase activity 
+ATP adenylyltransferase activity 
+tRNA nucleotidyltransferase activity 
+(2,3-dihydroxybenzoyl)adenylate synthase activity 
+[protein-PII] uridylyltransferase activity 
+DNA-directed 5'-3' RNA polymerase activity 
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity 
+holo-citrate lyase synthase activity 
+cobinamide phosphate guanylyltransferase activity 
+diguanylate cyclase activity 
+No match found
+No match found
+DNA-directed DNA polymerase activity 
+No match found
+tRNA 3'-terminal CCA addition ; CTP:tRNA cytidylyltransferase activity ; CTP:3'-cytidine-tRNA cytidylyltransferase activity ; ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity 
+No match found
+molybdopterin adenylyltransferase activity 
+molybdenum cofactor guanylyltransferase activity 
+polyribonucleotide nucleotidyltransferase activity 
+molybdopterin-synthase adenylyltransferase activity 
+No match found
+No match found
+L-threonylcarbamoyladenylate synthase 
+No match found
+UTP:glucose-1-phosphate uridylyltransferase activity 
+No match found
+No match found
+No match found
+CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity 
+phospho-N-acetylmuramoyl-pentapeptide-transferase activity ; UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity 
+phosphatidylglycerol-membrane-oligosaccharide glycerophosphotransferase activity 
+phosphatidylcholine synthase activity 
+adenosylcobinamide-GDP ribazoletransferase activity 
+No match found
+No match found
+UDP-N-acetylglucosamine-undecaprenyl-phosphate N-acetylglucosaminephosphotransferase activity 
+No match found
+N,N'-diacetylbacilliosaminyl-1-phosphate transferase activity 
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity 
+No match found
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity 
+undecaprenyl-phosphate galactose phosphotransferase activity 
+holo-[acyl-carrier-protein] synthase activity 
+CDP-diacylglycerol-serine O-phosphatidyltransferase activity 
+pyruvate, phosphate dikinase activity 
+pyruvate, water dikinase activity 
+selenide, water dikinase activity 
+thiosulfate sulfurtransferase activity 
+No match found
+molybdopterin synthase activity 
+No match found
+3-mercaptopyruvate sulfurtransferase activity 
+No match found
+biotin synthase activity 
+cysteine desulfurase activity 
+lipoate synthase activity 
+arylsulfate sulfotransferase activity 
+No match found
+citrate CoA-transferase activity 
+glutaconate CoA-transferase activity 
+No match found
+No match found
+3-oxoacid CoA-transferase activity 
+3-oxoadipate CoA-transferase activity 
+acetate CoA-transferase activity 
+butyrate-acetoacetate CoA-transferase activity 
+No match found
+No match found
+tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase 
+L-seryl-tRNASec selenium transferase activity 
+carboxylic ester hydrolase activity 
+arylesterase activity 
+acylglycerol lipase activity 
+3-oxoadipate enol-lactonase activity 
+aminoacyl-tRNA hydrolase activity 
+triglyceride lipase activity 
+6-phosphogluconolactonase activity 
+phosphatidylcholine 1-acylhydrolase activity ; phosphatidylserine 1-acylhydrolase activity ; 1-acyl-2-lysophosphatidylserine acylhydrolase activity 
+phospholipase A2 activity 
+cephalosporin-C deacetylase activity 
+carboxymethylenebutenolidase activity 
+lysophospholipase activity 
+protein-glutamate methylesterase activity 
+acetylxylan esterase activity 
+cutinase activity 
+No match found
+No match found
+exodeoxyribonuclease I activity 
+exodeoxyribonuclease III activity 
+exodeoxyribonuclease V activity 
+exodeoxyribonuclease VII activity 
+exoribonuclease II activity 
+ribonuclease D activity 
+S-formylglutathione hydrolase activity 
+oleoyl-[acyl-carrier-protein] hydrolase activity ; myristoyl-[acyl-carrier-protein] hydrolase activity ; palmitoyl-[acyl-carrier-protein] hydrolase activity ; acyl-[acyl-carrier-protein] hydrolase activity 
+palmitoyl-CoA hydrolase activity ; myristoyl-CoA hydrolase activity 
+No match found
+hydroxyacylglutathione hydrolase activity 
+deoxyribonuclease I activity 
+deoxyribonuclease IV (phage-T4-induced) activity 
+Type I site-specific deoxyribonuclease activity 
+Type II site-specific deoxyribonuclease activity 
+Type III site-specific deoxyribonuclease activity 
+deoxyribonuclease V activity 
+crossover junction endodeoxyribonuclease activity 
+No match found
+No match found
+ribonuclease III activity 
+RNA-DNA hybrid ribonuclease activity 
+ribonuclease P activity 
+ribonuclease M5 activity 
+Enterobacter ribonuclease activity 
+alkaline phosphatase activity 
+glucose-1-phosphatase activity 
+No match found
+fructose 1,6-bisphosphate 1-phosphatase activity 
+trehalose-phosphatase activity 
+histidinol-phosphatase activity 
+phosphoprotein phosphatase activity 
+phosphoglycolate phosphatase activity 
+acid phosphatase activity 
+glycerol-1-phosphatase activity 
+mannitol-1-phosphatase activity 
+sugar-phosphatase activity 
+inositol monophosphate 1-phosphatase activity ; inositol monophosphate 3-phosphatase activity ; inositol monophosphate 4-phosphatase activity ; inositol monophosphate phosphatase activity 
+phosphatidylglycerophosphatase activity 
+phosphoserine phosphatase activity 
+phosphatidate phosphatase activity 
+3-deoxy-manno-octulosonate-8-phosphatase activity 
+protein tyrosine phosphatase activity 
+5'-nucleotidase activity 
+sorbitol-6-phosphatase activity 
+3'-nucleotidase activity 
+phosphatidylinositol-3-phosphatase activity 
+2-deoxyglucose-6-phosphatase activity 
+3'(2'),5'-bisphosphate nucleotidase activity 
+mannosyl-3-phosphoglycerate phosphatase activity 
+alpha-ribazole phosphatase activity 
+pyridoxal phosphatase activity 
+acireductone synthase activity 
+diacylglycerol diphosphate phosphatase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+sphingomyelin phosphodiesterase activity 
+[acyl-carrier-protein] phosphodiesterase activity 
+2',3'-cyclic-nucleotide 2'-phosphodiesterase activity 
+3',5'-cyclic-nucleotide phosphodiesterase activity 
+phosphatidylcholine phospholipase C activity 
+glycerophosphodiester phosphodiesterase activity 
+cyclic-guanylate-specific phosphodiesterase activity 
+No match found
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase activity 
+dGTPase activity 
+arylsulfatase activity 
+guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity 
+No match found
+No match found
+phosphonoacetaldehyde hydrolase activity 
+UDPsulfoquinovose synthase activity 
+No match found
+alpha-amylase activity 
+oligo-1,6-glucosidase activity 
+dextranase activity 
+maltose-6'-phosphate glucosidase activity 
+xylan alpha-1,2-glucuronosidase activity 
+neopullulanase activity 
+glucuronoarabinoxylan endo-1,4-beta-xylanase activity 
+chitinase activity 
+oligosaccharide reducing-end xylanase activity 
+lysozyme activity 
+unsaturated rhamnogalacturonyl hydrolase activity 
+alpha-D-xyloside xylohydrolase 
+No match found
+exo-alpha-sialidase activity ; exo-alpha-(2->3)-sialidase activity ; exo-alpha-(2->6)-sialidase activity ; exo-alpha-(2->8)-sialidase activity 
+No match found
+No match found
+UDP-N,N'-diacetylbacillosamine 2-epimerase activity 
+No match found
+No match found
+alpha-1,4-glucosidase activity ; maltose alpha-glucosidase activity 
+beta-glucosidase activity ; scopolin beta-glucosidase activity 
+alpha-galactosidase activity ; raffinose alpha-galactosidase activity 
+beta-galactosidase activity 
+beta-fructofuranosidase activity ; sucrose alpha-glucosidase activity 
+alpha,alpha-trehalase activity 
+glucan 1,4-alpha-glucosidase activity 
+xylan 1,4-beta-xylosidase activity 
+glucan endo-1,3-beta-D-glucosidase activity 
+cellulase activity 
+pullulanase activity 
+beta-N-acetylhexosaminidase activity 
+alpha-L-arabinofuranosidase activity 
+glucan 1,6-alpha-glucosidase activity 
+licheninase activity 
+endo-1,4-beta-xylanase activity 
+fructan beta-fructosidase activity 
+exo-poly-alpha-galacturonosidase activity 
+6-phospho-beta-galactosidase activity 
+6-phospho-beta-glucosidase activity 
+alpha,alpha-phosphotrehalase activity 
+mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity 
+glycopeptide alpha-N-acetylgalactosaminidase activity ; mucinaminylserine mucinaminidase activity 
+pyrimidine-5'-nucleotide nucleosidase activity 
+DNA-3-methyladenine glycosylase activity 
+alkylbase DNA N-glycosylase activity ; DNA-3-methyladenine glycosylase activity ; DNA-7-methylguanine glycosylase activity ; DNA-7-methyladenine glycosylase activity ; DNA-3-methylguanine glycosylase activity 
+oxidized purine nucleobase lesion DNA N-glycosylase activity 
+No match found
+No match found
+6-amino-6-deoxyfutalosine hydrolase activity 
+AMP nucleosidase activity 
+NAD glycohydrolase activity 
+adenosylhomocysteine nucleosidase activity 
+No match found
+adenosylhomocysteinase activity 
+isochorismatase activity 
+epoxide hydrolase activity 
+cholesterol-5,6-oxide hydrolase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+tripeptide aminopeptidase activity 
+No match found
+No match found
+No match found
+cytosolic dipeptidase activity ; alanylglutamate dipeptidase activity 
+No match found
+proline dipeptidase activity 
+No match found
+No match found
+serine-type D-Ala-D-Ala carboxypeptidase activity 
+No match found
+No match found
+No match found
+glutathione hydrolase activity 
+No match found
+beta-aspartyl-peptidase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+asparaginase activity 
+formyltetrahydrofolate deformylase activity 
+N-acetylglucosaminylinositol deacetylase activity 
+No match found
+No match found
+UDP-3-O-acyl-N-acetylglucosamine deacetylase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+acetylornithine deacetylase activity 
+succinyl-diaminopimelate desuccinylase activity 
+nicotinamidase activity 
+glutaminase activity 
+ceramidase activity 
+choloylglycine hydrolase activity 
+N-acetylglucosamine-6-phosphate deacetylase activity 
+N-acetylmuramoyl-L-alanine amidase activity 
+omega-amidase activity 
+glutamin-(asparagin-)ase activity 
+amidase activity 
+nicotinamide-nucleotide amidase activity 
+protein-glutamine glutaminase activity 
+N-acetyldiaminopimelate deacetylase activity 
+urease activity 
+N-carbamoylputrescine amidase activity 
+glutathionylspermidine amidase activity 
+peptide deformylase activity 
+gamma-glutamyl-gamma-aminobutyrate hydrolase activity 
+succinylglutamate desuccinylase activity 
+No match found
+hydroxyisourate hydrolase activity 
+dihydroorotase activity 
+allantoinase activity 
+beta-lactamase activity 
+imidazolonepropionase activity 
+arginase activity 
+agmatinase activity 
+agmatine deiminase activity 
+dimethylargininase activity 
+N-succinylarginine dihydrolase activity 
+No match found
+No match found
+allantoicase activity 
+arginine deiminase activity 
+formimidoylglutamase activity 
+allantoate deiminase activity 
+cytosine deaminase activity ; 5-fluorocytosine deaminase activity 
+IMP cyclohydrolase activity 
+pterin deaminase activity 
+dCTP deaminase activity 
+GTP cyclohydrolase I activity 
+phosphoribosyl-AMP cyclohydrolase activity 
+adenine deaminase activity 
+blasticidin-S deaminase activity 
+GTP cyclohydrolase II activity 
+diaminohydroxyphosphoribosylaminopyrimidine deaminase activity 
+guanine deaminase activity 
+No match found
+adenosine deaminase activity 
+No match found
+cytidine deaminase activity 
+methenyltetrahydrofolate cyclohydrolase activity 
+No match found
+thiaminase activity 
+glucosamine-6-phosphate deaminase activity 
+inorganic diphosphatase activity 
+exopolyphosphatase activity 
+dCTP diphosphatase activity 
+ADP-ribose diphosphatase activity 
+bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity 
+NAD+ diphosphatase activity 
+dUTP diphosphatase activity 
+triphosphatase activity 
+CDP-diacylglycerol diphosphatase activity 
+undecaprenyl-diphosphatase activity 
+ATPase activity 
+phosphoribosyl-ATP diphosphatase activity 
+guanosine-5'-triphosphate,3'-diphosphate diphosphatase activity 
+bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity 
+UDP-sugar diphosphatase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+acylphosphatase activity 
+ATP diphosphatase activity 
+nucleotide diphosphatase activity ; NADH pyrophosphatase activity 
+potassium-transporting ATPase activity 
+No match found
+No match found
+ATPase-coupled arsenite transmembrane transporter activity 
+monosaccharide-transporting ATPase activity 
+maltose-transporting ATPase activity 
+magnesium-importing ATPase activity 
+glycerol-3-phosphate-transporting ATPase activity 
+polar-amino acid-transporting ATPase activity 
+nickel-transporting ATPase activity 
+ATPase-coupled sulfate transmembrane transporter activity 
+ATPase-coupled phosphate ion transmembrane transporter activity 
+ATPase-coupled organic phosphonate transmembrane transporter activity 
+ATPase-coupled molybdate transmembrane transporter activity 
+cadmium-exporting ATPase activity 
+ferric-transporting ATPase activity 
+polyamine-transporting ATPase activity 
+quaternary-ammonium-compound-transporting ATPase activity 
+cobalamin-transporting ATPase activity 
+iron-chelate-transporting ATPase activity ; ferric dicitrate transporter activity 
+taurine-transporting ATPase activity 
+capsular-polysaccharide-transporting ATPase activity 
+copper-exporting ATPase activity 
+teichoic-acid-transporting ATPase activity 
+heme-transporting ATPase activity ; protoheme IX ABC transporter activity 
+peptide-transporting ATPase activity 
+xenobiotic-transporting ATPase activity 
+zinc-exporting ATPase activity 
+No match found
+calcium-transporting ATPase activity 
+No match found
+No match found
+No match found
+No match found
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase activity ; 2-hydroxy-6-oxonona-2,4,7-trienedioate hydrolase activity 
+4,5-9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase activity 
+3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase activity 
+kynureninase activity 
+2,6-dioxo-6-phenylhexa-3-enoate hydrolase activity 
+haloalkane dehalogenase activity 
+No match found
+No match found
+No match found
+No match found
+aspartate 1-decarboxylase activity 
+aspartate 4-decarboxylase activity 
+glutamate decarboxylase activity 
+ornithine decarboxylase activity 
+lysine decarboxylase activity 
+arginine decarboxylase activity 
+oxalate decarboxylase activity 
+diaminopimelate decarboxylase activity 
+phosphoribosylaminoimidazole carboxylase activity 
+histidine decarboxylase activity 
+orotidine-5'-phosphate decarboxylase activity 
+oxaloacetate decarboxylase activity 
+phosphoenolpyruvate carboxylase activity 
+phosphoenolpyruvate carboxykinase (GTP) activity 
+UDP-glucuronate decarboxylase activity 
+phosphopantothenoylcysteine decarboxylase activity 
+uroporphyrinogen decarboxylase activity 
+phosphoenolpyruvate carboxykinase (diphosphate) activity 
+methylmalonyl-CoA decarboxylase activity 
+4-carboxymuconolactone decarboxylase activity 
+tartronate-semialdehyde synthase activity 
+indole-3-glycerol-phosphate synthase activity 
+phosphoenolpyruvate carboxykinase (ATP) activity 
+acetolactate decarboxylase activity 
+adenosylmethionine decarboxylase activity 
+4-hydroxybenzoate decarboxylase activity 
+phosphatidylserine decarboxylase activity 
+5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase activity 
+glutaconyl-CoA decarboxylase activity 
+2-oxoglutarate decarboxylase activity 
+tartrate decarboxylase activity 
+indolepyruvate decarboxylase activity 
+4-oxalocrotonate decarboxylase activity 
+threonine-phosphate decarboxylase activity 
+4-hydroxyphenylacetate decarboxylase activity 
+3-dehydro-L-gulonate-6-phosphate decarboxylase activity 
+diaminobutyrate decarboxylase activity 
+No match found
+fructose-bisphosphate aldolase activity 
+2-dehydro-3-deoxy-phosphogluconate aldolase activity 
+L-fuculose-phosphate aldolase activity 
+rhamnulose-1-phosphate aldolase activity 
+2-dehydro-3-deoxyglucarate aldolase activity 
+2-dehydro-3-deoxy-6-phosphogalactonate aldolase activity 
+fructose-6-phosphate phosphoketolase activity 
+dihydroneopterin aldolase activity ; 7,8-dihydromonapterin aldolase activity 
+sphinganine-1-phosphate aldolase activity 
+5-dehydro-2-deoxyphosphogluconate aldolase activity 
+deoxyribose-phosphate aldolase activity 
+tagatose-bisphosphate aldolase activity 
+vanillin synthase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+phosphoketolase activity 
+isocitrate lyase activity 
+4-hydroxy-2-oxoglutarate aldolase activity 
+4-hydroxy-4-methyl-2-oxoglutarate aldolase activity 
+malyl-CoA lyase activity 
+(3S)-citramalyl-CoA lyase activity 
+anthranilate synthase activity 
+N-acetylneuraminate lyase activity 
+methylisocitrate lyase activity 
+citryl-CoA lyase activity 
+1,4-dihydroxy-2-naphthoyl-CoA synthase activity 
+4-amino-4-deoxychorismate lyase activity 
+4-hydroxy-2-oxovalerate aldolase activity 
+hydroxymethylglutaryl-CoA lyase activity 
+chorismate lyase activity 
+citrate (pro-3S)-lyase activity 
+tryptophanase activity 
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity 
+No match found
+No match found
+2-iminoacetate synthase activity 
+tyrosine phenol-lyase activity 
+GTP 3',8'-cyclase activity 
+deoxyribodipyrimidine photo-lyase activity 
+carbonate dehydratase activity 
+3-dehydroquinate dehydratase activity 
+trans-feruloyl-CoA hydratase activity 
+ectoine synthase activity 
+methylthioribulose 1-phosphate dehydratase activity 
+phosphopyruvate hydratase activity 
+No match found
+No match found
+No match found
+No match found
+phosphogluconate dehydratase activity 
+4-hydroxybutanoyl-CoA dehydratase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+enoyl-CoA hydratase activity 
+imidazoleglycerol-phosphate dehydratase activity 
+fumarate hydratase activity 
+tryptophan synthase activity 
+cystathionine beta-synthase activity 
+porphobilinogen synthase activity 
+L-arabinonate dehydratase activity 
+propanediol dehydratase activity 
+aconitate hydratase activity 
+glycerol dehydratase activity 
+L(+)-tartrate dehydratase activity 
+3-isopropylmalate dehydratase activity 
+gluconate dehydratase activity 
+glucarate dehydratase activity 
+5-dehydro-4-deoxyglucarate dehydratase activity 
+galactarate dehydratase activity 
+myo-inosose-2 dehydratase activity 
+CDP-glucose 4,6-dehydratase activity 
+dTDP-glucose 4,6-dehydratase activity 
+GDP-mannose 4,6-dehydratase activity 
+urocanate hydratase activity 
+prephenate dehydratase activity 
+oleate hydratase activity 
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity ; 3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity 
+galactonate dehydratase activity 
+altronate dehydratase activity 
+pseudouridylate synthase activity 
+uroporphyrinogen-III synthase activity 
+2-methylcitrate dehydratase activity 
+mannonate dehydratase activity 
+2-oxopent-4-enoate hydratase activity 
+D(-)-tartrate dehydratase activity 
+xylonate dehydratase activity 
+4-oxalmesaconate hydratase activity 
+dimethylmaleate hydratase activity 
+dihydroxy-acid dehydratase activity 
+L-rhamnonate dehydratase activity 
+4-alpha-hydroxytetrahydrobiopterin dehydratase activity 
+2-methylisocitrate dehydratase activity 
+hyaluronate lyase activity 
+pectate lyase activity 
+No match found
+oligogalacturonide lyase activity 
+pectate disaccharide-lyase activity 
+No match found
+No match found
+threonine synthase activity 
+No match found
+methylglyoxal synthase activity 
+3-dehydroquinate synthase activity 
+chorismate synthase activity 
+DNA-(apurinic or apyrimidinic site) lyase activity 
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity 
+No match found
+aspartate ammonia-lyase activity 
+ornithine cyclodeaminase activity 
+3-aminobutyryl-CoA ammonia-lyase activity 
+diaminopropionate ammonia-lyase activity 
+L-serine ammonia-lyase activity 
+D-serine ammonia-lyase activity 
+L-threonine ammonia-lyase activity 
+methylaspartate ammonia-lyase activity 
+No match found
+histidine ammonia-lyase activity 
+ethanolamine ammonia-lyase activity 
+glucosaminate ammonia-lyase activity 
+argininosuccinate lyase activity 
+N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity ; (S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity 
+ureidoglycolate lyase activity 
+pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity 
+4-hydroxy-tetrahydrodipicolinate synthase 
+No match found
+cystathionine gamma-lyase activity ; L-cystine L-cysteine-lyase (deaminating) ; L-cysteine desulfhydrase activity 
+methionine gamma-lyase activity 
+D-cysteine desulfhydrase activity 
+selenocysteine lyase activity 
+homocysteine desulfhydrase activity 
+S-ribosylhomocysteine lyase activity 
+No match found
+lactoylglutathione lyase activity 
+cystathionine beta-lyase activity 
+S-carboxymethylcysteine synthase activity 
+adenylate cyclase activity 
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity 
+cyclic pyranopterin monophosphate synthase activity 
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase activity 
+ferrochelatase activity 
+sirohydrochlorin cobaltochelatase activity 
+sirohydrochlorin ferrochelatase activity 
+alanine racemase activity 
+aspartate racemase activity 
+No match found
+No match found
+glutamate racemase activity 
+proline racemase activity 
+diaminopimelate epimerase activity 
+4-hydroxyproline epimerase activity 
+lactate racemase activity 
+3-hydroxybutyryl-CoA epimerase activity 
+ribulose-phosphate 3-epimerase activity 
+dTDP-4-dehydrorhamnose 3,5-epimerase activity 
+UDP-N-acetylglucosamine 2-epimerase activity 
+glucose-6-phosphate 1-epimerase activity 
+UDP-glucose 4-epimerase activity 
+ADP-glyceromanno-heptose 6-epimerase activity 
+L-ribulose-5-phosphate 3-epimerase activity 
+No match found
+No match found
+aldose 1-epimerase activity 
+No match found
+No match found
+L-ribulose-phosphate 4-epimerase activity 
+UDP-N-acetylglucosamine 4-epimerase activity 
+N-acylglucosamine-6-phosphate 2-epimerase activity 
+No match found
+No match found
+peptidyl-prolyl cis-trans isomerase activity 
+triose-phosphate isomerase activity 
+glucuronate isomerase activity 
+arabinose-5-phosphate isomerase activity 
+L-rhamnose isomerase activity 
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity 
+4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity 
+hydroxypyruvate isomerase activity 
+S-methyl-5-thioribose-1-phosphate isomerase activity 
+phosphoribosylanthranilate isomerase activity 
+L-fucose isomerase activity 
+galactose-6-phosphate isomerase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+L-arabinose isomerase activity 
+xylose isomerase activity 
+ribose-5-phosphate isomerase activity 
+mannose-6-phosphate isomerase activity 
+glucose-6-phosphate isomerase activity 
+oxaloacetate tautomerase activity 
+No match found
+No match found
+No match found
+steroid delta-isomerase activity 
+5-carboxymethyl-2-hydroxymuconate delta-isomerase activity 
+trans-2-decenoyl-acyl-carrier-protein isomerase activity 
+No match found
+No match found
+isopentenyl-diphosphate delta-isomerase activity 
+vinylacetyl-CoA delta-isomerase activity 
+muconolactone delta-isomerase activity 
+dodecenoyl-CoA delta-isomerase activity 
+No match found
+phosphoglucosamine mutase activity 
+No match found
+No match found
+phosphoglucomutase activity 
+beta-phosphoglucomutase activity 
+phosphopentomutase activity 
+phosphomannomutase activity 
+lysine 2,3-aminomutase activity 
+beta-lysine 5,6-aminomutase activity 
+D-ornithine 4,5-aminomutase activity 
+glutamate-1-semialdehyde 2,1-aminomutase activity 
+isochorismate synthase activity 
+3-(hydroxyamino)phenol mutase activity 
+methylaspartate mutase activity 
+pseudouridine synthase activity 
+isobutyryl-CoA mutase activity 
+(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase activity 
+maltose alpha-D-glucosyltransferase activity 
+5-(carboxyamino)imidazole ribonucleotide mutase activity 
+No match found
+methylmalonyl-CoA mutase activity 
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+No match found
+chorismate mutase activity 
+No match found
+No match found
+No match found
+UDP-galactopyranose mutase activity 
+muconate cycloisomerase activity 
+halimadienyl-diphosphate synthase activity 
+3-carboxy-cis,cis-muconate cycloisomerase activity 
+inositol-3-phosphate synthase activity 
+DNA topoisomerase type I activity 
+DNA topoisomerase type II (ATP-hydrolyzing) activity 
+tyrosine-tRNA ligase activity 
+methionine-tRNA ligase activity 
+serine-tRNA ligase activity 
+aspartate-tRNA ligase activity 
+glycine-tRNA ligase activity 
+proline-tRNA ligase activity 
+cysteine-tRNA ligase activity 
+glutamate-tRNA ligase activity 
+glutamine-tRNA ligase activity 
+arginine-tRNA ligase activity 
+tryptophan-tRNA ligase activity 
+phenylalanine-tRNA ligase activity 
+histidine-tRNA ligase activity 
+asparagine-tRNA ligase activity 
+aspartate-tRNA(Asn) ligase activity 
+threonine-tRNA ligase activity 
+leucine-tRNA ligase activity 
+isoleucine-tRNA ligase activity 
+lysine-tRNA ligase activity 
+alanine-tRNA ligase activity 
+valine-tRNA ligase activity 
+acetate-CoA ligase activity 
+6-carboxyhexanoate-CoA ligase activity 
+propionate-CoA ligase activity 
+long-chain fatty acid [acyl-carrier-protein] ligase activity 
+[citrate (pro-3S)-lyase] ligase activity 
+o-succinylbenzoate-CoA ligase activity 
+long-chain fatty acid-CoA ligase activity ; decanoate--CoA ligase activity 
+phenylacetate-CoA ligase activity 
+No match found
+No match found
+succinate-CoA ligase (ADP-forming) activity 
+aspartate-ammonia ligase activity 
+glutamate-putrescine ligase activity 
+D-aspartate ligase activity 
+cysteine-glucosaminylinositol ligase activity 
+No match found
+glutamate-ammonia ligase activity 
+No match found
+NAD+ synthase activity 
+glutathionylspermidine synthase activity 
+pantoate-beta-alanine ligase activity 
+UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity 
+dihydrofolate synthase activity 
+UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity 
+2,3-dihydroxybenzoate-serine ligase activity 
+tetrahydrofolylpolyglutamate synthase activity 
+glutamate-cysteine ligase activity 
+glutathione synthase activity 
+coenzyme F420-0:L-glutamate ligase activity 
+coenzyme F420-1:gamma-L-glutamate ligase activity 
+D-alanine-D-alanine ligase activity 
+No match found
+No match found
+phosphopantothenate--cysteine ligase activity 
+phosphoribosylaminoimidazolesuccinocarboxamide synthase activity 
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase activity 
+UDP-N-acetylmuramate-L-alanine ligase activity 
+UDP-N-acetylmuramoylalanine-D-glutamate ligase activity 
+phosphoribosylformylglycinamidine cyclo-ligase activity 
+5-formyltetrahydrofolate cyclo-ligase activity 
+dethiobiotin synthase activity 
+phosphoribosylamine-glycine ligase activity 
+biotin carboxylase activity 
+biotin-[acetyl-CoA-carboxylase] ligase activity 
+5-(carboxyamino)imidazole ribonucleotide synthase activity 
+No match found
+CTP synthase activity 
+No match found
+No match found
+formate-tetrahydrofolate ligase activity 
+adenylosuccinate synthase activity 
+argininosuccinate synthase activity 
+NAD+ synthase (glutamine-hydrolyzing) activity 
+No match found
+GMP synthase (glutamine-hydrolyzing) activity 
+phosphoribosylformylglycinamidine synthase activity 
+asparagine synthase (glutamine-hydrolyzing) activity 
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity 
+glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity 
+hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing) activity 
+pyruvate carboxylase activity 
+acetyl-CoA carboxylase activity 
+propionyl-CoA carboxylase activity 
+methylcrotonoyl-CoA carboxylase activity 
+DNA ligase (ATP) activity 
+DNA ligase (NAD+) activity 
+RNA-3'-phosphate cyclase activity 

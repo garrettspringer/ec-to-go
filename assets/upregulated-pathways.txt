@@ -1,0 +1,40 @@
+Pathways that are upregulated in disease
+
+Quantification: Over 70% of the enzymes were upregulated
+
+Arginine & Proline Metabolism
+
+Gluconeogenesis
+
+Pentose Phosphate Pathway (Cycle)
+  - Notably, non-oxidative phase
+
+PRPP Biosynthesis
+
+Pyruvate Oxidation
+
+Glycogen biosynthesis, glucose-1P => glycogen/starch
+
+Guanine ribonucleotide biosynthesis IMP => GDP,GTP
+
+Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP 
+
+Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine 
+
+Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine
+
+Ornithine biosynthesis, glutamate => ornithine
+
+Arginine biosynthesis, ornithine => arginine
+
+Arginine biosynthesis, glutamate => acetylcitrulline => arginine
+
+Histidine biosynthesis, PRPP => histidine 
+
+Tryptophan biosynthesis, chorismate => tryptophan
+
+Coenzyme A biosynthesis, pantothenate => CoA
+
+Glutathione biosynthesis, glutamate => glutathione
+
+C1-unit interconversion, prokaryotes

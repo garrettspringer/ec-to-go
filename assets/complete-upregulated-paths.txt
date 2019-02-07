@@ -1,0 +1,34 @@
+Paths that had at least one enzyme upregulated in each step of the pathway
+
+Paths should be highlighted if they contain 5 or more steps ***
+
+Carbon Fixation
+  - CAM (Crassulacean acid metabolism), dark
+Central Carbohydrate Metabolism
+  - Pyruvate Oxidation
+  - PRPP Biosynthesis
+Branched-Chain Amino Acid Metabolism
+  - Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine ***
+Arginine and Proline Metabolism
+  - Arginine biosynthesis, ornithine => arginine ***
+Aromatic Amino Acid Metabolism
+- Tryptophan biosynthesis, chorismate => tryptophan ***
+Cofactor and Vitamin Biosynthesis
+- Glutathione biosynthesis, glutamate => glutathion
+
+- C1-unit interconversion, prokaryotes
+
+***Paths using the Kegg search
+
+- Purine Metabolism ***
+- Aminoacyl-tRNA biosynthesis
+- Amino sugar and nucleotide sugar metabolism
+- Pyrimidine Metabolism ***
+- Fructose and mannose metabolism
+- Starch and sucrose metabolism
+- Glycolysis / Gluconeogenesis ***
+- Carbon fixation pathway
+- Cysteine and methionine metabolism
+- Galactose metabolism
+- Pyruvate metabolism
+- Phenylalanine, tyrosine and tryptophan biosynthesis

@@ -16,6 +16,8 @@ int main()
   ofstream colorFile("colorFile.txt");
   ofstream totalEC("totalEC.txt");
   ofstream repeatFile("repeatFile.txt");
+  ofstream urDisease("ur-disease.txt");
+  ofstream urHealth("ur-health.txt");
 
   vector<string> black, blue, red;
 
@@ -46,6 +48,7 @@ int main()
       if (i==j) valid = false;
       
     if (valid) {
+      urHealth << i << "\n";
       foutBlue << i << " blue\n"; 
       colorFile << i << " blue\n";
       totalEC << i << "\n";
@@ -59,6 +62,7 @@ int main()
       if (i==j) valid = false;
 
     if (valid) {
+      urDisease << i << "\n";
       foutRed << i << " red\n";
       colorFile << i << " red\n";
       totalEC << i << "\n";
