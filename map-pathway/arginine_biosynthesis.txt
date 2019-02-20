@@ -1,0 +1,11 @@
+1.2.1.38 = 0003942 : N-acetyl-gamma-glutamyl-phosphate reductase activity 
+1.4.1.4 = 0004354 : glutamate dehydrogenase (NADP+) activity 
+2.1.3.3 = 0004585 : ornithine carbamoyltransferase activity 
+2.3.1.1 = 0004042 : acetyl-CoA:L-glutamate N-acetyltransferase activity 
+2.3.1.35 = 0004358 : glutamate N-acetyltransferase activity 
+2.6.1.11 = 0003992 : N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity 
+2.6.1.2 = 0004021 : L-alanine:2-oxoglutarate aminotransferase activity 
+3.5.3.6 = 0016990 : arginine deiminase activity 
+4.3.2.1 = 0004056 : argininosuccinate lyase activity 
+6.3.1.2 = 0004356 : glutamate-ammonia ligase activity 
+6.3.4.5 = 0004055 : argininosuccinate synthase activity 
